@@ -1,0 +1,10 @@
+# DAT251x-IntroducingDataModeling
+
+
+MIT License
+
+IMPORTANT NOTICE: Software and sample software only are licensed under the MIT license; documents in this repository are licensed under the following terms and conditions: 
+
+©2017 Microsoft Corporation. All rights reserved. The text in the documents are available under the Creative Commons Attribution 4.0 License, additional terms may apply. All other content contained in the documents (including, without limitation, trademarks, logos, images, etc.) are not included within the Creative Commons license grant. The documents do not provide you with any legal rights to any intellectual property in any Microsoft product. 
+
+The documents are provided "as-is." Information and views expressed in the documents, including URL and other Internet Web site references, may change without notice. You bear the risk of using it. Some examples are for illustration only and are fictitious. No real association is intended or inferred. Microsoft makes no warranties, express or implied, with respect to the information provided here.
